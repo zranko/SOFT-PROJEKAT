@@ -1,0 +1,12 @@
+
+file 	 sum
+videos/video-0.avi	78.0
+videos/video-1.avi	77.0
+videos/video-2.avi	75.0
+videos/video-3.avi	98.0
+videos/video-4.avi	113.0
+videos/video-5.avi	71.0
+videos/video-6.avi	92.0
+videos/video-7.avi	74.0
+videos/video-8.avi	108.0
+videos/video-9.avi	97.0
